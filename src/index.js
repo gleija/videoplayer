@@ -27,7 +27,7 @@ const App = () => {
               <div style={divStyle}>
                 <Player
                   playsInline
-                  src="http://ns333115.ip-37-187-125.eu/fishstory/esp-Fish.Story.2009.JAP.PROPER.DVDRip.XviD-GiNJi.mp4"
+                  src="https://drive.google.com/uc?export=download&id=18cp1Kb-KYFXX0cvogepGXhseC7M3LM5i"
                 />
               </div>
             </Col>
