@@ -1,5 +1,22 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "packageRules": [
+    {
+      "groupName": "react",
+      "packagePatterns": ["^react"],
+      "enabled": true
+    },
+    {
+      "groupName": "jest",
+      "packagePatterns": ["^jest", "^enzyme"],
+      "enabled": true
+    }
+  ],
+  "timezone": "Australia/Melbourne",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "extends": "schedule:weekly"
+  }
 }
