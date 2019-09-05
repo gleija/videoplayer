@@ -27,7 +27,7 @@ const App = () => {
               <div style={divStyle}>
                 <Player
                   playsInline
-                  src="https://drive.google.com/uc?export=download&id=18cp1Kb-KYFXX0cvogepGXhseC7M3LM5i"
+                  src="http://ns379011.ip-5-196-69.eu/fishstory/FishStory.mkv"
                 />
               </div>
             </Col>
