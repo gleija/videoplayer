@@ -27,7 +27,7 @@ const App = () => {
               <div style={divStyle}>
                 <Player
                   playsInline
-                  src="http://ns379011.ip-5-196-69.eu/fishstory/FishStory.mkv"
+                  src="http://ns379011.ip-5-196-69.eu/loveandpeace/LoveandPeace.mkv"
                 />
               </div>
             </Col>
